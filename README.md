@@ -16,3 +16,6 @@ Analyze sales performance using interactive Power BI dashboards.
 
 ## Key Learning
 Built interactive dashboards and transformed raw sales data into business insights.
+
+## Dashboard Preview
+![Dashboard](dashboard.png)
